@@ -1,2 +1,2 @@
 # desenhoCanvasJs
-Projeto de estudo onde foi feito uma tela de desenho com o Canvas e JS
+Projeto de estudo feito durante o curso, onde foi projetado uma tela de desenho com o Canvas e JS
